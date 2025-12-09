@@ -80,4 +80,6 @@ We welcome contributions to improve this project! If you find a bug or want to a
 3.  Add your features and submit a Pull Request.
 
    <img width="1024" height="1024" alt="op2" src="https://github.com/user-attachments/assets/9036a464-79d8-4a23-9c96-06b64ecc73ff" />
+   <img width="1024" height="1024" alt="op" src="https://github.com/user-attachments/assets/c56c557b-1361-42a0-836e-566ea3db23a6" />
+
 
