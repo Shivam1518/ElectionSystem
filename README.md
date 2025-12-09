@@ -79,7 +79,19 @@ We welcome contributions to improve this project! If you find a bug or want to a
 2.  Fork the repository.
 3.  Add your features and submit a Pull Request.
 
-   <img width="1024" height="1024" alt="op2" src="https://github.com/user-attachments/assets/9036a464-79d8-4a23-9c96-06b64ecc73ff" />
-   <img width="1024" height="1024" alt="op" src="https://github.com/user-attachments/assets/c56c557b-1361-42a0-836e-566ea3db23a6" />
+## Output 
+
+## 1. Voter Dashboard (Current Phase)
+This image shows a voter logged in and ready to cast their ballot in an active election.
+<img width="1024" height="893" alt="opf1" src="https://github.com/user-attachments/assets/604b5b22-8322-4000-8994-74090ae98b0b" />
+
+## 2. Post-Vote Transaction Confirmation
+This image confirms that the vote has been successfully recorded as an immutable transaction on the blockchain.
+<img width="1024" height="938" alt="opf2" src="https://github.com/user-attachments/assets/96d9af01-2675-46a5-b792-e138e2a64bc9" />
+
+## 3. Final Election Results Screen
+This image displays the audited and transparent results after the voting phase has concluded.
+<img width="1024" height="947" alt="opf3" src="https://github.com/user-attachments/assets/a592a320-3bb4-4b58-9785-68e9a5a1e6a9" />
+
 
 
